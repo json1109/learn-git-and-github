@@ -41,12 +41,7 @@ bash命令：rm -r 文件夹名字
 win命令：type 文件名字
 bash命令：cat 文件名字
 
-<<<<<<< HEAD
 git切换远程分支
 git checkout -b dev origin/dev，作用是checkout远程的dev分支，在本地起名为dev分支，并切换到本地的dev分支
 
 111111111111111111111111111111111
-=======
-
-??????????miaomiaomiao
->>>>>>> dev
